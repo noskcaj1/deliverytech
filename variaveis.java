@@ -1,4 +1,4 @@
-public class variaveis {
+public class variaveis{
     public static void main(String[] args) {
         String nome = "Naruto Uzumaki"; //Variável do tipo String para armazenar o nome do ninja
         int idade = 16; //Variável do tipo int para armazenar a idade do ninja
