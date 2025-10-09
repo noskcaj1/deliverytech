@@ -70,3 +70,9 @@ Os principais tipos de dados primitivos em Java são:
 - A principal diferença: dados não primitivos podem receber métodos, enquanto primitivos não podem
 - Exemplos de dados não primitivos: String, array, class e enum
 - Dados primitivos (como int, float, char) não podem ter métodos aplicados
+
+
+
+### Link para o material disponibilizado pelo professor:
+
+https://gist.github.com/andersonbuenos/5fb6c5c71d1fc6478b871b74d77cc54e

@@ -26,3 +26,7 @@
 
 - É uma boa prática usar nomes em inglês para variáveis, mas não é obrigatório no início do aprendizado
 - Ao concatenar strings, lembre-se de adicionar espaços para evitar que palavras fiquem juntas
+
+### link para o material disponibilizado pelo professor:
+
+https://gist.github.com/andersonbuenos/91b7480c8d78a34c82476d96b62d346b
