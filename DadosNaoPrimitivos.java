@@ -1,4 +1,4 @@
-public class DadosNaoPrimitivos { // Dados não primitivos são objetos
+public class DadosNaoPrimitivos { // Dados não primitivos são objetos - public: visível para todas as classes private: visível apenas para a classe
     public static void main(String[] args) { // método principal
 
     String nome = "Naruto Uzumaki"; // Dados não primitivos são objetos
